@@ -1,0 +1,9 @@
+Pre-mission Setup
+	GPS Calibration
+	Verify fail-safes
+		RTH on Link Loss
+		RTL at 25% battery
+		Geofence Polygon
+	Load KML File into Scout Drone's Onboard Computer
+		Generate Lawnmover Pattern
+

@@ -1,0 +1,9 @@
+Phase 2 (Kit Delivery)
+	Delivery Actions
+		Takeoff and cruise to target at 12 m/s
+			Descend
+				Stabilize
+				Drop Payload
+	Path Planning
+		Recieve Geotag data from Scout Drone
+
