@@ -1,0 +1,67 @@
+Subsystems and Components
+	Scouting Drone
+		Propulsion subsystem
+			BLDC Motors
+				Weight: 64g - 350g
+				Quantity: 4nos
+				Total Weight: 256 - 1400g
+			Power Distribution System
+				Weight: 12g - 158g
+				Quantity: 1nos
+				Total Weight: 12g - 158g
+			Propellers
+				Weight: 14g
+				Quantity: 4nos
+				Total Weight: 56g
+		Structure Subsystem
+			Rotor Arm and Frame
+				Weight: 375g
+				Quantity: 1nos
+				Total Weight: 375g
+			Landing Gears
+				Weight: 130g
+				Quantity: 1nos
+				Total Weight: 130g
+		Avionics Subsystem
+			Raspberry Pi
+				Weight: 46g
+				Quantity: 1nos
+				Total Weight: 46g
+			Pixhawk Flight Controller
+				Weight: 60g
+				Quantity: 1nos
+				Total Weight: 60g
+			Electronics Speed Controllers (ESC's)
+				Weight: 34g
+				Quantity: 4nos
+				Total Weight: 136g
+			Receiver
+				Weight: 10g
+				Quantity: 1nos
+				Total Weight: 10g
+		Navigation and Control
+			GPS Module
+				Weight: 20g
+				Quantity: 1nos
+				Total Weight: 20g
+		Payload
+			Battery Pack
+				Weight: 300g - 1.37kg
+				Quantity: 1nos
+				Total Weight: 300g - 1.37kg
+			Camera
+				Weight: 35g
+				Quantity: 1
+				Total Weight: 35g
+		MISC
+			Electronics and Cables
+				Weight: 150g
+				Quantity: 1nos
+				Total Weight: 150g
+	Delivery Drone
+		Propulsion subsystem
+		Structure Subsystem
+		Avionics Subsystem
+		Navigation and Control
+		Payload
+
