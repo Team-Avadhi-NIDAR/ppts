@@ -1,7 +1,7 @@
 Phase - 1 (Scanning and Geotagging)
 	Scout Actions
 		Takeoff
-		Fly Lawnmover at 4 m/s; Run YOLOv8n as 2FPS
+		Fly Mesh Mapping at 4 m/s; Run YOLOv8n as 2FPS
 		On Detection
 			Compute Geotag
 			Broadcase Audio Alert
